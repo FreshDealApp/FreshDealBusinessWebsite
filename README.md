@@ -2,6 +2,9 @@
 
 Official administrative dashboard for FreshDeal, a platform connecting customers with nearby restaurants and businesses through flash deals and ticket management.
 
+## Live Demo
+Visit our live application: https://lively-bush-0a480ff03.6.azurestaticapps.net/dashboard
+
 ## Related Projects
 
 - Backend API: [FreshDealBackend](https://github.com/FreshDealApp/FreshDealBackend)
